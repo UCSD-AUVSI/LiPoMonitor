@@ -1,6 +1,8 @@
 #Lithium Polymer Battery Monitor
 Author:  Nathan Hui
+
 Date:    3 March 2014
+
 Version: 1.0
 
 #Overview
